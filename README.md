@@ -51,7 +51,7 @@ Driven by a deep passion for coding and software development, I've devoted mysel
 - 
 ## 🚀 Tech Stack
 
-** 🧠 Languages**  
+**🧠Languages**  
 JavaScript · TypeScript
 
 **Frontend**  
