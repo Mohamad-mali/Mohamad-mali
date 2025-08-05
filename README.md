@@ -4,7 +4,8 @@
 
 Driven by a deep passion for coding and software development, I've devoted myself to continuously growing and excelling in this field. I designed and planned my project from the ground up, managing every aspect from  start to finish. My goal has always been to build high-quality Software that is reliable, maintainable, and genuinely useful to real users. 
 
-- 
+---
+
 ## 🚀 Tech Stack
 
 🧠 **Languages**  
