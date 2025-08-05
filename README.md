@@ -51,31 +51,31 @@ Driven by a deep passion for coding and software development, I've devoted mysel
 - 
 ## 🚀 Tech Stack
 
-**🧠Languages**  
+🧠 **Languages**  
 JavaScript · TypeScript
 
-**Frontend**  
+🌐 **Frontend**  
 React (Hooks, Functional & Class Components)
 
-**Backend**  
+🖥️ **Backend**  
 Node.js · Express.js
 
-**Databases**  
+🗄️ **Databases**  
 MongoDB (Mongoose) · MySQL (Sequelize)
 
-**API Technologies**  
+🔌 **API Technologies**  
 REST · GraphQL · WebSockets
 
-**Authentication**  
+🔐 **Authentication**  
 JWT (JSON Web Tokens)
 
-**Tools & DevOps**  
+🛠️ **Tools & DevOps**  
 Git · Docker · Postman
 
-**Practices & Patterns**  
+🧱 **Practices & Patterns**  
 Agile · TDD · OOP · MVC
 
-**Core Knowledge**  
+📚 **Core Knowledge**  
 Algorithms · API Design****
 
 <!--
