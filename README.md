@@ -31,7 +31,7 @@ Git · Docker · Postman
 Agile · TDD · OOP · MVC
 
 📚 **Core Knowledge**  
-Algorithms · API Design****
+Algorithms · API Design
 
 <!--
 **Mohamad-mali/Mohamad-mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
