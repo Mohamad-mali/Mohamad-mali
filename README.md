@@ -1,25 +1,22 @@
 ## Hi
 
-**' Developer/Designer '**
+**' Backend Developer '**
 
 Driven by a deep passion for coding and software development, I've devoted myself to continuously growing and excelling in this field. I designed and planned my project from the ground up, managing every aspect from  start to finish. My goal has always been to build high-quality Software that is reliable, maintainable, and genuinely useful to real users. 
 
 ## 🚀 Tech Stack
 
 🧠 **Languages**  
-JavaScript · TypeScript
-
-🌐 **Frontend**  
-React (Hooks, Functional & Class Components)
+C# · Python
 
 🖥️ **Backend**  
-Node.js · Express.js
+ASP.Net · Flask
 
 🗄️ **Databases**  
 MongoDB (Mongoose) · MySQL (Sequelize)
 
 🔌 **API Technologies**  
-REST · GraphQL · WebSockets
+REST · Redis · WebSockets
 
 🔐 **Authentication**  
 JWT (JSON Web Tokens)
@@ -28,10 +25,10 @@ JWT (JSON Web Tokens)
 Git · Docker · Postman
 
 🧱 **Practices & Patterns**  
-Agile · TDD · OOP · MVC
+Agile · Clean Architect · DDD · MVC
 
 📚 **Core Knowledge**  
-Algorithms · API Design
+Algorithms · API Design - Business
 
 <!--
 **Mohamad-mali/Mohamad-mali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
